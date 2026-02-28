@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/raskolnikov/Projects/CPU_DFT-GPU_cuFFT/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

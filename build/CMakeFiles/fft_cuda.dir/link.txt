@@ -1,1 +1,0 @@
-/usr/bin/g++ -Wl,--dependency-file=CMakeFiles/fft_cuda.dir/link.d @CMakeFiles/fft_cuda.dir/objects1.rsp -o fft_cuda @CMakeFiles/fft_cuda.dir/linkLibs.rsp -L"/opt/cuda/targets/x86_64-linux/lib/stubs" -L"/opt/cuda/targets/x86_64-linux/lib"
